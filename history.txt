@@ -1,0 +1,500 @@
+  232  cd ..
+  233  ls
+  234  mkdir test
+  235  cd test
+  236  git clone https://github.com/shanealynn/async_flask
+  237  ls
+  238  cd async_flask/
+  239  ls
+  240  virtualenv flaskiotest
+  241  ls
+  242  ./flaskiotest/Scripts/activate
+  243  pip install -r requirements.txt  #(or in Windows - sometimes python -m pip install -r requirements.txt )
+  244  pip install -r requirements.txt
+  245  pip3 install -r requirements.txt
+  246  ls
+  247  python application.py 
+  248  ls
+  249  vi application.py
+  250  python application.py 
+  251  ls
+  252  ls -l
+  253  cd static
+  254  ls
+  255  cd js
+  256  ls
+  257  vi application.js 
+  258  cd tools
+  259  ls
+  260  cd test
+  261  ls
+  262  cd async_flask/
+  263  ls
+  264  python application.py 
+  265  python application.py 
+  266  ls
+  267  cd data
+  268  ls
+  269  cd ..
+  270  ls
+  271  cd database
+  272  ls
+  273  cat startmongo.sh
+  274  ping 34.239.141.152
+  275  curl 34.239.141.152:80/gis
+  276  telnet
+  277  telnet 34.239.141.152 20402
+  278  telnet 34.239.141.152 20302
+  279  telnet 34.239.141.152 20402
+  280  pop3
+  281  pip3
+  282  pip3 install pyspark
+  283  pyspark
+  284  pyspark
+  285  spark-shell
+  286  scala
+  287  export SPARK_HOME=/usr/local/Cellar/apache-spark/2.4.3
+  288  spark-shell
+  289  spark-shell
+  290  brew install apache-spark
+  291  brew reinstall apache-spark
+  292  spark-shell
+  293  cd /usr/local/Cellar/apache-spark/2.4.3
+  294  ls
+  295  bin
+  296  cd bin
+  297  ls
+  298  spark-shell
+  299  ls -al
+  300  ./pyspark
+  301  sudo su root
+  302  python
+  303  pwd
+  304  cd -
+  305  pwd
+  306  cd
+  307  cd tools
+  308  cd spark
+  309  ls
+  310  cd spark-2.4.3-bin-hadoop2.7/
+  311  ls
+  312  pwd
+  313  vi ~/.bash_profile
+  314  source ~/.bash_profile
+  315  spark-shell
+  316  mongo
+  317  ls
+  318  mongo
+  319  java
+  320  cd ..
+  321  ls
+  322  pwd
+  323  cd ..
+  324  ls
+  325  mkdir spark
+  326  cd spark
+  327  java -version
+  328  pyspark
+  329  pip install pyspark
+  330  pip3 install pyspark
+  331  ls
+  332  cd /
+  333  find . -name pyspark
+  334  pyspark
+  335  cd /usr/local/spark
+  336  cd /usr/local
+  337  ls
+  338  cd -
+  339  pwd
+  340  ls
+  341  cd
+  342  pwd
+  343  ls
+  344  cd tools
+  345  ls
+  346  cd park
+  347  pyspark
+  348  pwd
+  349  cd spark
+  350  pwd
+  351  export SPARK_HOME=/Users/mizan/tools/spark
+  352  pyspark
+  353  brew
+  354  brew install apache-spark
+  355  brew install scala
+  356  ls
+  357  scala
+  358  spark-shell
+  359  ./spark-shell
+  360  brew install apache-spark
+  361  spark-shell
+  362  ls
+  363  cd /usr/local/Cellar/apache-spark/2.4.3
+  364  ls
+  365  spark-shell
+  366  pwd
+  367  ls
+  368  cd bin
+  369  ls
+  370  ./spark-shell
+  371  pwd
+  372  ls -al
+  373  spark-shell
+  374  pip3 uninstall pyspark
+  375  ls
+  376  spark-shell
+  377  pwd
+  378  pyspark
+  379  pip3 install pyspark
+  380  pwd
+  381  cd 
+  382  ls
+  383  cd tools
+  384  ls
+  385  cd node
+  386  ls
+  387  mkdir test
+  388  cd test
+  389  ls
+  390  vi test1.js
+  391  node test1.js
+  392  vi test1.js
+  393  vi input.txt
+  394  node test1.js
+  395  vi input.txt
+  396  vi test1.js
+  397  vi test0.js
+  398  node test0.js
+  399  vi test1.js
+  400  ls
+  401  nohup ./startmongo.sh &
+  402  mongo
+  403  docker info
+  404  minikube
+  405  minikube
+  406  brew
+  407   sudo xcodebuild -license accept
+  408  brew
+  409  brew cask install minikube
+  410  brew install minikube
+  411  minikube
+  412  brew install iterm
+  413  brew install iterm2
+  414  brew cask install iterm2
+  415  iterm
+  416  iterm2
+  417  brew install hyperkit
+  418  minikube start --vm-driver=hyperkit
+  419  brew uninstall hyperkit
+  420  brew install hyperkit
+  421  minikube start --vm-driver=hyperkit
+  422  minikube start --vm-driver=virtualbox
+  423  minikube start --vm-driver=virtualbox
+  424  minikube delete
+  425  minikube start --vm-driver=virtualbox
+  426  kubectl get nodes
+  427  kubectl get pods
+  428  kubectl get pod
+  429  kubectl get pods
+  430  python
+  431  pip3 install pywapi
+  432  pip3 install urllib2
+  433  pip insatll urllib2
+  434  pip3 install urllib
+  435  pip3 install urllib.request
+  436  curl
+  437  curl -H "Accept-Encoding: gzip,deflate" "http://api.accuweather.com/locations/v1/search?q=san&apikey={your key}"
+  438  curl -H "Accept-Encoding: gzip,deflate" "http://api.accuweather.com/locations/v1/search?q=san&apikey=6vKTQJMVZdeJjLlGAnKLC8EA0R0PxBo4"
+  439  curl -H "Accept-Encoding: gzip,deflate" "http://api.accuweather.com/locations/v1/search?q=san&apikey=6vKTQJMVZdeJjLlGAnKLC8EA0R0PxBo4"
+  440  cd /
+  441  find . -name *resume*
+  442  docker
+  443  docker ps
+  444  kubectl version
+  445  iterm
+  446  pwd
+  447  cd
+  448  cd downloads
+  449  ls -ltr
+  450  ssh -i mizanec2.pem ec2user@18.207.225.112
+  451  chmod 400 mizanec2.pem
+  452  ssh -i mizanec2.pem ec2user@18.207.225.112
+  453  ls -l *.pem
+  454  ssh -i mizanec2.pem ec2-user@18.207.225.112
+  455  ssh -i mizanec2.pem ec2-user@18.207.225.112
+  456  ssh -i mizanec2.pem ec2-user@3.83.163.59
+  457  curl -v -X GET -H 'Authorization: Basic c21zZ2hybW46RWtMSkdEMXlhY2J4' -H 'Ntrip-Version: Ntrip/2.0' -H 'Ntrip-GGA: $GPGGA,092959.59,3238.118000,N,09705.658000,W,4,08,1.1,473.274,M,3.300,M,4.4,0001*6D' http://dev.caas.hyperlocation.io:2101/KDFW --output -
+  458  jupyter notebook
+  459  cd jupyter-proj/
+  460  ls
+  461  mkdir DCS901
+  462  mkdir Test
+  463  jupyter
+  464  python
+  465  jupyter
+  466  jupyter notebook
+  467  ls
+  468  mkdir jupyter-proj
+  469  cd jupyter-proj
+  470  ls
+  471  jupyter notebook
+  472  cd
+  473  cd downloads
+  474  ls -ltr
+  475  unzip Ataur_Rahman_CT_Scan.rar
+  476  ifconfig
+  477  ifconfig
+  478  vi /etc/hosts
+  479  sudo vi /etc/hosts
+  480  sudo vi /etc/hosts
+  481  sudo vi /etc/hosts
+  482  ping allenmasjid.com
+  483  node
+  484  npm install -g typescript
+  485  sudo npm install -g typescript
+  486  typescript
+  487  tsc
+  488  cd
+  489  mkdir typescripts
+  490  cd typescripts/
+  491  vi hello.ts
+  492  tsc hello.ts
+  493  ls
+  494  node hello.js
+  495  vi greeting.ts
+  496  cat hello.js
+  497  tsc greeting.ts
+  498  ls
+  499  node greeting.js
+  500  vi greeting.js
+  501  ls -al
+  502  mkdir .aws
+  503  cd .aws
+  504  vi credentials
+  505  aws
+  506  aws
+  507  aws iam list-users
+  508  pwd
+  509  cd ..
+  510  aws iam list-users
+  511  brew tap weaveworks/tap
+  512  brew install weaveworks/tap/eksctl
+  513  eksctl version
+  514  eksctl create cluster > --name test-cluster > --version 1.17 > --region us-east-1 > --nodegroup-name linux-nodes > --node-type t2.micro > --nodes 2
+  515  eksctl create cluster --name test-cluster > --version 1.17 --region us-east-1 --nodegroup-name linux-nodes --node-type t2.micro --nodes 2
+  516  eksctl create cluster --name test-cluster --version 1.17 --region us-east-1 --nodegroup-name linux-nodes --node-type t2.micro --nodes 2
+  517  kubectl get nodes
+  518  kubectl get pod
+  519  kubectl get ns
+  520  kubectl get ns
+  521  kubectl get nodes
+  522  kubectl version
+  523  kubectl version --short --client
+  524  aws-iam-authenticator help
+  525  aws --version
+  526  kubectl get nodes
+  527  kubectl get nodes
+  528  kubectl get nodes
+  529  python
+  530  vi test.py
+  531  python test.py
+  532  pip3 install tesnsorflow
+  533  pip install tesnsorflow
+  534  nslookup cloud190.vzbi.co
+  535  nslookup cloud190.vzbi.com
+  536  ping 8.8.8.8
+  537  minikube
+  538  brew install huperkit
+  539  brew install hyperkit
+  540  kubectl
+  541  minikube
+  542  minikube start --vm-driver=hyperkit
+  543  brew install minikube
+  544  brew upgrade minikube
+  545  minikube start --vm-driver=hyperkit
+  546  minikube start --vm-driver=virtualbox
+  547  kubectl get nodes
+  548  minikube status
+  549  kubectl version
+  550  kubectl get nodes
+  551  kubectl get pod
+  552  kubectl get services
+  553  kubectl create ?
+  554  kubectl create deployment nginx-depl --image=nginx
+  555  kubectl create deployment nginx-depl --image=nginx
+  556  brew kubectl upgrade
+  557  brew upgrade kubectl
+  558  kubectl version
+  559  minikube stop
+  560  kubectl version
+  561  brew install kubectl
+  562  kubectl version
+  563  brew link kubernetes-cli
+  564  rm '/usr/local/bin/kubectl'
+  565  brew link kubernetes-cli
+  566  kubectl version
+  567  minikube start --vm-driver=virtualbox
+  568  kubectl version
+  569  kubectl create deployment nginx-depl --image=nginx
+  570  kubectl get deployment
+  571  kubectl get pod
+  572  kubectl get replicaset
+  573  kebectl edit nginx-depl
+  574  kubectl edit nginx-depl
+  575  kubectl edit deployment nginx-depl
+  576  kubectl get pod
+  577  kubectl get pod
+  578  kubectl get pod
+  579  kubectl get replicaset
+  580  kubectl logs nginx-depl-66859c8f65-pzm67
+  581  kubectl create deployment mongo-depl --image=mongo
+  582  kubectl get pod
+  583  kubectl logs mongo-depl-67f895857c-l6z4z
+  584  kubectl get pod
+  585  kubectl get pod
+  586  kubectl exec  -it mongo-depl-67f895857c-l6z4z -- bin/bash
+  587  kubectl get deployment
+  588  kubectl delete deployment mongo-depl 
+  589  kubectl get pod
+  590  kubectl apply -f nginx-deployment.yaml
+  591  touch nginx-deployment.yaml
+  592  kubectl apply -f nginx-deployment.yaml
+  593  vi nginx-deployment.yaml
+  594  kubectl get pod
+  595  kubectl delete deployment nginx-depl
+  596  kubectl get pod
+  597  kubectl apply -f nginx-deployment.yaml 
+  598  kubectl gt pod
+  599  kubectl get pod
+  600  kubectl get pod
+  601  vi nginx-deployment.yaml
+  602  kubectl apply -f nginx-deployment.yaml 
+  603  kubectl get pod
+  604  kubectl get pod
+  605  kubectl get deployment
+  606  kubectl get pod
+  607  kubectl get replicaset
+  608  kubectl get replicaset
+  609  ls
+  610  ls -ltr
+  611  mkdir kubernetes
+  612  cp nginx-deployment.yaml ./kubernetes/
+  613  cd kubernetes/
+  614  ls
+  615  vi nin-service.yaml
+  616  ls
+  617  mv nin-service.yaml nginx-service.yaml
+  618  ls
+  619  kubectl apply -f nginx-deployment.yaml
+  620  kubectl apply -f nginx-service.yaml
+  621  kubectl get pod
+  622  kubectl get service
+  623  kubectl describe service nginx-service
+  624  kubectl get pod -o wide
+  625  kubeclt get deployment nginx-deployment -o yaml
+  626  kubectl get deployment nginx-deployment -o yaml
+  627  kubectl get deployment nginx-deployment -o yaml > nginx-deployment-result.yaml
+  628  ls
+  629  vi nginx-deployment-result.yaml
+  630  kubectl get pod
+  631  kubectl get deployment
+  632  kubectl get serevice
+  633  kubectl get service
+  634  kubectl deleve nginx-deployment
+  635  kubectl delete nginx-deployment
+  636  kubectl delete -f nginx-deployment.yaml
+  637  kubectl delete -f nginx-service.yaml
+  638  kubectl get service
+  639  kubectl get all
+  640  ls
+  641  cp nginx-deployment.yaml mongodb-deployment.yaml
+  642  ls
+  643  vi mongodb-deployment.yaml 
+  644  vi mongodb-secret.yaml
+  645  vi mongodb-deployment.yaml 
+  646  kubectl apply -f mongodb-deployment.yaml
+  647  vi mongodb-deployment.yaml 
+  648  vi mongodb-deployment.yaml 
+  649  kubectl apply -f mongodb-deployment.yaml
+  650  vi mongodb-deployment.yaml 
+  651  kubectl apply -f mongodb-deployment.yaml
+  652  kubectl get deployment
+  653  kubectl get all
+  654  kubctl get pod
+  655  kubectl get pod
+  656  kubectl delete -f mongodb-deployment.yaml
+  657  kubectl get pod
+  658  kubectl get pod
+  659  kubectl get pod
+  660  ls
+  661  cp mongodb-deployment.yaml mongo.yaml
+  662  kubectl apply -f mongo.yaml
+  663  kubectl get pod
+  664  kubectl get all
+  665  vi mongo.yaml
+  666  kubectl apply -f mongo.yaml
+  667  kubectl get service
+  668  kubectl describe service mongodb-service
+  669  kubectl get pod -o wide
+  670  kubectl get all | grep mongo
+  671  vi mongo-express.yaml
+  672  ls
+  673  cp mongodb-deployment.yaml mongo-express.yaml
+  674  vi mongo-express.yaml 
+  675  kubectl apply -f mongo-configmap.yaml
+  676  kubectl apply -f mongo-express.yaml
+  677  kubectl get pod
+  678  kubectl get all
+  679  kubectl logs mongo-express-797845bd97-hx2tp
+  680  ls
+  681  vi mongo-express.yaml
+  682  kubectl apply -f mongo-express.yaml
+  683  vi mongo-express.yaml
+  684  kubectl apply -f mongo-express.yaml
+  685  kubectl get service
+  686  minikube service mongo-expres-service
+  687  kubectl get service
+  688  minikube service mongo-express-service
+  689  kubectl namespace
+  690  kubectl get namespace
+  691  kubectl create namespace my-namespace
+  692  kubectl get namespace
+  693  brew install kubectx
+  694  kubens
+  695  kubens my-namespace
+  696  kubens
+  697  kubens default
+  698  kubens
+  699  ls
+  700  vi myapp-ext-service
+  701  minikube addons enable ingress
+  702  kubectl get pod -n kube-system
+  703  kubectl get ns
+  704  kubectl get all -n kubernetes-dashboard
+  705  vi dashboard-ingress.yaml
+  706  kubectl get ingress 
+  707  kubectl get ingress -n kubernetes-dashboard
+  708  kubectl get ingress -n kubernetes-dashboard
+  709  kubctl apply -f dashboard-ingress.yaml 
+  710  ls
+  711  kubctl apply -f dashboard-ingress.yaml
+  712  kubectl apply -f dashboard-ingress.yaml
+  713  kubectl get all -n kubernetes-dashboard
+  714  kubectl apply -f dashboard-ingress.yaml
+  715  kubectl get ingress -n kubernetes-dashboard
+  716  sudo vi /etc/hosts
+  717  kubectl get pod
+  718  kubectl get service
+  719  kubectl get all
+  720  history
+  721  history | grep minikube
+  722  history
+  723  kubectl get pod
+  724  ls
+  725  cat nginx-deployment.yaml
+  726  ls
+  727  cat nginx-deployment.yaml
+  728  ls
+  729  cat nginx-service.yaml
+  730  ls
+  731  history >> history.txt
